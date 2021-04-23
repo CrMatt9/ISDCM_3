@@ -1,7 +1,7 @@
+isdcm\isdcm_rest\resources\RestVideo.class
 isdcm\models\Video$MAX_LENGTH.class
-com\upc\idscm\tools\Database.class
-isdcm\isdcm_rest\JAXRSConfiguration.class
-isdcm\isdcm_rest\resources\restVideo.class
+isdcm\tools\Database.class
+isdcm_rest\JAXRsConfiguration.class
+isdcm\isdcm_rest\resources\RestVideo$Error.class
 isdcm\models\Video$FIELDS.class
-isdcm\isdcm_rest\resources\JavaEE8Resource.class
 isdcm\models\Video.class
